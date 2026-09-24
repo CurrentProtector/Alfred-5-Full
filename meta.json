@@ -1,0 +1,23 @@
+{
+  "repo": "alfred-5-full",
+  "product": "Alfred 5 Full",
+  "kind": "productivity",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "office-suite",
+  "topics": [
+    "alfred-5",
+    "alfred-windows",
+    "office-suite-desktop",
+    "how-to-install-alfred",
+    "alfred-5-desktop-package",
+    "alfred-workspace",
+    "alfred-5-pro-tools",
+    "alfred-suite",
+    "zentool-alfred",
+    "alfred-5-tool-9"
+  ],
+  "site": "zentool.art"
+}
